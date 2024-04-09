@@ -1,0 +1,28 @@
+#TextContainer{
+    width: 50%;
+    float: left;
+    height: 69vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    color: white;
+    text-align: left;
+    font-family: Nunito, sans-serif;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 3.8em !important;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.subtitle{
+    color: rgb(165 181 204);
+    font-style: italic;
+    font-family: Nunito;
+    font-size: 18px;
+    margin: 0px;
+}

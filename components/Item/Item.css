@@ -1,0 +1,45 @@
+.Item {
+    border-radius: 1.2rem;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 20px;
+    box-shadow: 0px 16px 40px 0px rgba(143, 160, 193, .14);
+    transition: all 300ms ease;
+    background-color: rgb(59 77 102);
+    color: white;
+    font-family: Nunito, sans-serif !important;
+    font-weight: 700;
+    font-size: 20px;
+  }
+
+  .Item:hover {
+  background-color: rgb(41 55 73);
+  }
+  .title{
+    font-weight: 500;
+    font-size: 1.5rem;
+  }
+
+
+.html{
+    background: rgb(252 239 231);
+    border-radius: 7px;
+    padding: 5px;
+}
+.css{
+    background: rgb(226 252 243);
+    border-radius: 7px;
+    padding: 5px;
+}
+.javascript{
+    background: rgb(233 241 252);
+    border-radius: 7px;
+    padding: 5px;
+}
+.accessibility{
+    background: rgb(246 230 255);
+    border-radius: 7px;
+    padding: 5px;
+}
