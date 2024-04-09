@@ -13,16 +13,13 @@
     font-weight: 700;
     font-size: 20px;
   }
-
-  .Item:hover {
+.Item:hover {
   background-color: rgb(41 55 73);
   }
-  .title{
+.title{
     font-weight: 500;
     font-size: 1.5rem;
   }
-
-
 .html{
     background: rgb(252 239 231);
     border-radius: 7px;
